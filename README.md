@@ -1,7 +1,5 @@
 # eslint-demo
 
-test
-
 ## Table of Contents
 
 - [About](#about)
