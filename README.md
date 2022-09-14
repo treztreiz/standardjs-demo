@@ -1,6 +1,6 @@
 # eslint-demo
 
-test lol
+test
 
 ## Table of Contents
 
